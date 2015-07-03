@@ -1,0 +1,6 @@
+{
+   "all-installer-experiments": [ "scheduled-autoupdate@2" ],
+   "installer-experiments": [  ],
+   "language": "ru",
+   "single_profile": false
+}

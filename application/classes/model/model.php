@@ -1,0 +1,13 @@
+<?php
+include_once('config.php');
+include_once('main.php');
+include_once('claim.php');
+include_once('contact.php');
+include_once('files.php');
+include_once('search.php');
+include_once('personal.php');
+include_once('patients.php');
+include_once('medicine.php');
+include_once('costs.php');
+include_once('procedure.php');
+include_once('schedule.php');
